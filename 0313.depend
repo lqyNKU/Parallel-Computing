@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647180111 source:d:\tdm-gcc-64\projects\0313\main.cpp
+	<iostream>
+	<ctime>
+	<time.h>
+
